@@ -4,8 +4,8 @@ function Navbar() {
     return (
         <div className='header min-h-10 bg-violet-800 flex justify-between items-center '>
             <div className='flex py-4 px-4 gap-8'>
-                <div className='flex items-center gap-2 py-3 px-6 bg-green-500'>
-                    <span className='text-white text-3xl' >Allen</span>
+                <div className='flex items-center gap-2 py-3 px-6 bg-purple-600'>
+                    <span className='text-white text-3xl' >ALLEN</span>
                     <NotebookPen/>
                 </div>
                 <div className='flex items-center'>
